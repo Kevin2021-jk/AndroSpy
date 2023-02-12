@@ -19,7 +19,7 @@ I do NOT support any malicious use of this software. This is for educational pur
 
 
 # 功能展示
-
+![20230212135103](https://user-images.githubusercontent.com/62233800/218300220-d0b42904-1c1d-44a1-b5f7-c43ed6ec72dd.jpg)
 ## 功能介绍
 💠𝗙𝗶𝗹𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗿
 - 🟢Download/Upload
